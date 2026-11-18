@@ -20,4 +20,12 @@ c) Transaction Management
 d) Loan Management 
 e) Loan Payment (EMI) 
 f) Employee Management 
-g) Admin Management 
+g) Admin Management
+
+
+## 🎥 Project Demo
+
+Watch the complete demonstration of the Bank Management System:
+
+https://github.com/user-attachments/assets/de7e1bf1-a8c0-468e-b86f-10a591cacc3e
+
